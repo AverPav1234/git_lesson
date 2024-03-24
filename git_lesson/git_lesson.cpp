@@ -6,7 +6,7 @@ int main()
 {
     int a = 5;
     std::cout << a;
-    func(a);
+    func(a, 3);
 }
 
 
