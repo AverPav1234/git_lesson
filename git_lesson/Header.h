@@ -1,8 +1,8 @@
 #include <iostream>
 using namespace std;
 void func(int n, int a) {
-	for (int i = 0; i < n; i++)
+	for (int i = 0; i < a; i++)
 	{
-		cout << i << endl << a;
+		cout << i << endl << n;
 	}
 }
