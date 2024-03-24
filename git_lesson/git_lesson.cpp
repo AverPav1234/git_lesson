@@ -4,9 +4,9 @@
 
 int main()
 {
-    int a = 50;
+    int a = 150;
     std::cout << a;
-    func(a, 3);
+    func(a, 4);
 }
 
 
