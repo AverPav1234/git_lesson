@@ -4,10 +4,10 @@
 
 int main()
 {
-    int a = 150;
+    int a = 155;
     std::cout << a;
     func(a, 10);
-    func(a, 4);
+    func(a, 7);
 }
 
 
