@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "git_lesson", "git_lesson\git_lesson.vcxproj", "{7B9217DB-018C-4D1A-8E11-DCBBD4B6B253}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B9217DB-018C-4D1A-8E11-DCBBD4B6B253}.Debug|x64.ActiveCfg = Debug|x64
+		{7B9217DB-018C-4D1A-8E11-DCBBD4B6B253}.Debug|x64.Build.0 = Debug|x64
+		{7B9217DB-018C-4D1A-8E11-DCBBD4B6B253}.Debug|x86.ActiveCfg = Debug|Win32
+		{7B9217DB-018C-4D1A-8E11-DCBBD4B6B253}.Debug|x86.Build.0 = Debug|Win32
+		{7B9217DB-018C-4D1A-8E11-DCBBD4B6B253}.Release|x64.ActiveCfg = Release|x64
+		{7B9217DB-018C-4D1A-8E11-DCBBD4B6B253}.Release|x64.Build.0 = Release|x64
+		{7B9217DB-018C-4D1A-8E11-DCBBD4B6B253}.Release|x86.ActiveCfg = Release|Win32
+		{7B9217DB-018C-4D1A-8E11-DCBBD4B6B253}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0BBD664-1E4C-47C4-8B5F-0A94CBF306FA}
+	EndGlobalSection
+EndGlobal
