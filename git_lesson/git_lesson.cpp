@@ -4,7 +4,7 @@
 
 int main()
 {
-    int a = 1;
+    int a = 7;
     std::cout << a;
     func(a, 3);
 }
